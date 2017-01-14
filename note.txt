@@ -1,0 +1,5 @@
+1.inject $http
+2.getUser : fetch the user account's github
+3.getRepos : fetch user github's repos
+4.getRepoDetail : fetch repo detail using repoURL and username
+5.routes : main, user, repo
